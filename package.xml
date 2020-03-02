@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>JeansDay2</fullName>
+    <types>
+        <members>Jeans_Day_Signup__c.Date__c</members>
+        <members>Jeans_Day_Signup__c.Employee_Name__c</members>
+        <members>Jeans_Day_Signup__c.Paid__c</members>
+        <members>Jeans_Day_Signup__c.Payment_Method__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Jeans_Day_Signup__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Jeans_Day_Signup__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Jeans_Day_Signup_Flow</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Jeans_Day_Signup__c-Jeans Day Signup Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Jeans_Day_Signup__c.All</members>
+        <members>Jeans_Day_Signup__c.My_Jeans_Day_Signups</members>
+        <name>ListView</name>
+    </types>
+    <version>47.0</version>
+</Package>
