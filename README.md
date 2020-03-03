@@ -4,5 +4,5 @@ A popular way for companies to raise money for charity is to allow employees to 
 
 ## Installation Instructions
 
-Coming soon! Though if you're fluent with SFDX, you may be good (assuming I did this right.)
+Don't try to install this yet. A few things need to be fixed.
 
